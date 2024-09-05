@@ -1,7 +1,7 @@
 RobotPy WPILib
 ==============
 
-This repository contain a python implementation of wrappers for WPILib,
+This repository contains a python implementation of wrappers for WPILib,
 the library used to interface with hardware for the FIRST Robotics Competition. 
 Teams can use this library to write their robot code in Python, a powerful dynamic
 programming language.
